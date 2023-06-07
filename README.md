@@ -11,7 +11,7 @@ You should also prepare to talk to your boss about the value of this refactoring
 You can follow the instructions in the code to refactor. 
 Try using shortcuts to make your operations more efficiently. 
 However, after finishing all refactoring in the instruction, 
-you can challenge that 
+you can challenge yourself not to use if-else in the getScore() method. 
 
 There is a deliberate error in several of the implementations - 
 the player names are hard-coded to "player1" and "player2". 
